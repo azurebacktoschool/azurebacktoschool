@@ -1,6 +1,6 @@
 # Welcome to Azure Back to School
 
-![Azure Back to School logo](azurebacktoschool.png "Azure Back to School")
+![Azure Back to School logo](images/azurebacktoschool.png "Azure Back to School")
 
 
 ## **Event Mission**
