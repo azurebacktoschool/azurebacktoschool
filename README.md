@@ -1,64 +1,50 @@
-# Welcome to the 
-# Michigan Azure M365 User Group website
+# Welcome to Azure Back to School
 
-![user group logo](MAz365UGv2.png "Michigan Azure M365 user group")
-
-
-## **Group Mission**
-- Create an inclusive learning environment for those interested in Cloud technologies on Azure and M365
-
-- Provide content from global community members on a monthly basis
-
-- Expand knowledge for users in Michigan, United States, and around the world
-
-- Everyone is welcome to share session dates with their colleagues and contacts
-
-- **No sales pitches, just information!**
-
-**Register here:** <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup</a>
-
-**Join the LinkedIn Group:** <a rel="noreferrer noopener" href="https://www.linkedin.com/groups/12293597/" target="_blank">https://www.linkedin.com/groups/12293597/</a> 
-
-**Follow on Twitter:** <a rel="noreferrer noopener" href="https://twitter.com/MAz365ug" target="_blank">https://twitter.com/MAz365ug</a>
-
-**We still needing speakers for future events.  Submit your session request here:** <a rel="noreferrer noopener" href="https://sessionize.com/MI-azure-m365-user-group" target="_blank">https://sessionize.com/MI-azure-m365-user-group</a>
-
-All past meetings are recorded and can be access here: <a rel="noreferrer noopener" href="https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn" target="_blank">https://www.youtube.com/playlist?list=PLEyhcNWyLQRk17FNTvjr52EnULKnVuoWn</a>
+![Azure Back to School logo](azurebacktoschool.png "Azure Back to School")
 
 
-## Sessions 
+## **Event Mission**
+In the spirit of the #AzureFamily from #AzureAdventCalendar and #AzureSpringClean, I will be continuing the momentum with an end of summer event in September. 
 
-**Session overviews:** <a rel="noreferrer noopener" href="https://sessionize.com/api/v2/c8xd84bp/view/Sessions" target="_blank">https://sessionize.com/api/v2/c8xd84bp/view/Sessions</a>
+Content is a mix of blog articles and/or videos that are provided by the contributors in the list below. Hyperlinks to each topic’s content will be updated each day. Contributors are also asked to post their contribution on social media (Twitter and LinkedIn, at minimum) with the link to this page (https://azurebacktoschool.tech) and the hashtag #AzureBacktoSchool. Videos can be found on the Captain Hyperscaler YouTube channel in the [Azure Back to School playlist](https://www.youtube.com/playlist?list=PLEyhcNWyLQRkcdDu_MOy9Wv7mjUL18a26)
 
-**Speaker bios:** <a rel="noreferrer noopener" href="https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall" target="_blank">https://sessionize.com/api/v2/c8xd84bp/view/SpeakerWall</a>
+See Azure Advent Calendar [Azure Advent Calendar](https://azureadventcalendar.com/)  and [Azure Spring Clean](https://www.azurespringclean.com/) sites for some great content to help you with ideas and education. 
 
-## Upcoming Sessions
+## **2020 Event Submissions**
 
-**NEXT MEETING : October 21, 2020** at 8 AM US Eastern Time (UTC -4)- **"Azure Bastion: One does not simply walk into my VNet!" with Wim Matthyssen.**
-  Register here: <a rel="noreferrer noopener" href="https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup" target="_blank">https://www.meetup.com/MI-Azure-and-M365-User-Group-Meetup.
-
-**November 18, 2020** at 8 AM US Eastern Time (UTC -4)- "Monitoring Refrigeration Trucks using IoT Central and PowerBI" with Victor Rodrigues.
-
-**December 16, 2020** at 10 AM US Eastern Time (UTC -4)- "ACR, ACI, ACS, AKS, DCK... aka the Container Alphabet Soup" with Peter De Tender.
-
-**January 20, 2021** at 8 AM US Eastern Time (UTC -4)- "Using Azure Functions to create a .Net core Web Apps with Azure Blob Storage and perform Blob Triggers and deploying Azure Function Apps in Azure Kubernetes Clusters using KEDA" with Menaka Baskerpillai.
-
-
-## Past Sessions
-
-**June 17, 2020** - Guardians of your Microsoft Galaxy: 10 tips to make your Cloud eco-system more secure with Wim Matthyssen and Tim Hermie. In this session we will learn you 10 tips which will help you to get the job done and to be the guardian of your Microsoft Galaxy.
-View the recording of the meeting with Wim and Tim's presentation on June 17 here: <a rel="noreferrer noopener" href="https://youtu.be/U4wbrZYf4Pw" target="_blank">https://youtu.be/U4wbrZYf4Pw</a>
-
-**July 15, 2020** - What is Azure Governance and why you need it too with Vukasin Terzic.  Vukasin provided a great overview on the use of Azure Resource Graph, Resource Locks, Tags, Azure Policy, and Blueprints to govern your Azure resources.  
-View the recording of this meeting here: <a href="https://youtu.be/IuxPKmU1e-o" target="_blank" rel="noreferrer noopener">https://youtu.be/IuxPKmU1e-o</a>
-
-**August 19, 2020** - Azure Identity Management: No PIM without WIM and TIM with Wim Matthyssen and Tim Hermie. 
-View the recording of this meeting here: <a href="https://youtu.be/_ewhU8jtsKQ" target="_blank" rel="noreferrer noopener">https://youtu.be/_ewhU8jtsKQ</a>
-
-**September 16, 2020** "Logic Apps Deep Dive" with Vaibhav Gujral.  Vaibhav provided an overview of Logic Apps and how to create them in the Azure Portal, Visual Studio Code, and Visual Studio 2019 with json and Logic App Designer.
-View the recording of this meeting here: <a href="https://youtu.be/LNSYH9dCd-E" target="_blank" rel="noreferrer noopener">**https://youtu.be/LNSYH9dCd-E**</a>
-
-For links to other events, you can view the user group slides here: <a href="https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1" target="_blank" rel="noreferrer noopener">https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1https://1drv.ms/b/s!AnhcLZgTAB_Riq5J4X-LW_NTmU6G6g?e=vycsa1</a>
+|  |  |  |
+|----------|----------|:-------------:|
+|Date	|Topic	|Contributor|
+|1-Sep-2020	|Welcome to Azure Back-to-School plus “Breaking Down the Network Chains” – Network Watcher|	Dwayne Natwick|
+|2-Sep-2020	|How to Build an Azure Kubernetes Cluster using Managed Azure Active Directory integration|	Richard Hooper|
+|3-Sep-2020	|Azure Certification Preparation – Video Azure Certification Preparation – Post	|Gregor Suttie|
+|4-Sep-2020	|Beginning with Azure Functions in Visual Studio|	Jurgen Kevelaers|
+|7-Sep-2020	|Azure Hybrid including Hybrid Identity, Hybrid Device and Hybrid Exchange|	Shabaz Darr|
+|8-Sep-2020	|Introduction to Azure Monitor	|Vaibhav Gujral|
+|9-Sep-2020	|Azure Maps and Xamarin	|Luis Beltran|
+|10-Sep-2020	|Windows Virtual Desktop	|Neil McLoughlin|
+|11-Sep-2020	|Application Networking – Breaking Down the Azure Network Chains	|Dwayne Natwick|
+|12-Sep-2020	|Azure DevOps is not for IT Pro’s (says no one ever again) – Video Blog post	|Peter De Tender|
+|13-Sep-2020	|Serverless Big Data pipelines	|LaBrina Loving|
+|14-Sep-2020	|Exploring Azure Resources with Azure Graph Explorer	|Vukasin Terzic|
+|15-Sep-2020	|On-premise serverless app via Kubernetes and KEDA	|Stas Lebedenko|
+|16-Sep-2020	|Azure AZ-900 study guide, NEW! AZ-104 study guide	|Nick Colyer|
+|17-Sep-2020	|Azure Backup on Azure resources. Video, Blog post	|Wim Matthyssen|
+|18-Sep-2020	|The future of ARM Templates with Project Bicep	|Karel De Winter|
+|19-Sep-2020	|Virtual Network Gateways (includes demo) – Breaking Down the Azure Network Chains	|Dwayne Natwick|
+|20-Sep-2020	|Azure Function keys and API management	|Joel Hebert|
+|21-Sep-2020	|Azure Sentinel	|Ed Baker|
+|22-Sep-2020	|Deploying Terraform from develop to production consecutively using Azure DevOps	|Thomas Thornton|
+|23-Sep-2020	|Azure Lighthouse	|Alan Kinane|
+|24-Sep-2020	|Migration Journey from on-premises to Azure	|Sarah Lean|
+|25-Sep-2020	|ARM templates overview	|Marco Obinu|
+|26-Sep-2020	|DevSecOps – Integrating Security Practices with Azure DevOps	|Mark Patton|
+|27-Sep-2020	|Scalable Web Apps	|Tiago Costa|
+|28-Sep-2020	|Enterprise shared file services with Azure NetApp Files	|Kirk Ryan|
+|29-Sep-2020	|Building and Hosting client-side apps by leveraging Blazor, Static Website in Azure Storage and Azure CDN	|Hugo Barona|
+|30-Sep-2020	|Azure Pipelines to deploy ARM templates	|Dave Rendon|
+|1-Oct-2020	|Azure Back-to-School Wrap-up	|Dwayne Natwick|
+|  |  |  |
 
 
 <p><a rel="noreferrer noopener" href="https:captainhyperscaler.com" target="_blank">https://captainhyperscaler.com</a></p>
